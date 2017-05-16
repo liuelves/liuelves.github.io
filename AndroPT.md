@@ -9,7 +9,7 @@ title: Android Penetration Test
 
 ## [介紹](https://liuelves.github.io/AndroPT/intro/) ##
 
-### Section 1: [OWASP Mobile Security Testing Guide 實作](https://liuelves.github.io/AndroPT/OMSTG/) ###
+### Section 1: [OWASP Mobile Security Testing Guide](https://liuelves.github.io/AndroPT/OMSTG/) ###
 
 ### Section 2: [動態分析工具](https://liuelves.github.io/AndroPT/Dynamic/) ### 
 
