@@ -31,5 +31,5 @@ title: Intro
 
 [1]: https://en.wikipedia.org/wiki/Penetration_test
 
-[Next -> Section 1](https://liuelves.github.io/AndroPT/section1)
+[Next -> Section 1](https://liuelves.github.io/AndroPT/OMSTG)
 

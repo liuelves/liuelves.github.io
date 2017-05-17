@@ -1,13 +1,12 @@
 ---
 layout: default
-permalink: /Vul_Docker/v_intro/
+permalink: /Vul_Docker//
 title: Intro
 ---
-[Go Back to Android Penetration Test](https://liuelves.github.io/Vul_Docker/)
+[Go Back to 漏洞攻防演練 via Docker](https://liuelves.github.io/Vul_Docker/)
 
 # 介紹 #
 
-![alt text]( "Cube")
 
 # What is Docker#
 
@@ -26,5 +25,5 @@ title: Intro
 
 [1]:
 
-[Next -> Section 1](https://liuelves.github.io/Vul_Docker/section1)
+[Next -> Section 1 CVE-2017-5638](https://liuelves.github.io/Vul_Docker/CVE-2017-5638)
 
