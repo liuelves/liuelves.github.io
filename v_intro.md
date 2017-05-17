@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Vul_Docker//
+permalink: /Vul_Docker/v_intro/
 title: Intro
 ---
 [Go Back to 漏洞攻防演練 via Docker](https://liuelves.github.io/Vul_Docker/)
